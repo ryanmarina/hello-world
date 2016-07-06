@@ -1,3 +1,3 @@
 # hello-world
 
-This is just a test repository
+Biologist trying his hand at bioinformatics 
